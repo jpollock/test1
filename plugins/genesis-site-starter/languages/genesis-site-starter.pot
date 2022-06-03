@@ -1,0 +1,452 @@
+# Copyright (C) 2021 WPEngine
+# This file is distributed under the same license as the Genesis Site Starter package.
+msgid ""
+msgstr ""
+"Project-Id-Version: Genesis Site Starter 1.0.0\n"
+"Report-Msgid-Bugs-To: StudioPress <translations@studiopress.com>\n"
+"POT-Creation-Date: 2021-04-29 13:29:18+00:00\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"PO-Revision-Date: 2021-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: en\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-Country: United States\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: "
+"__;_e;_x:1,2c;_ex:1,2c;_n:1,2;_nx:1,2,4c;_n_noop:1,2;_nx_noop:1,2,3c;esc_"
+"attr__;esc_html__;esc_attr_e;esc_html_e;esc_attr_x:1,2c;esc_html_x:1,2c;\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-Bookmarks: \n"
+"X-Textdomain-Support: yes\n"
+
+#: includes/admin-bar-link/admin-bar-link.php:29
+msgid "Genesis Site Starter Help"
+msgstr ""
+
+#: includes/admin-bar-link/admin-bar-link.php:32
+msgid "eCommerce Help"
+msgstr ""
+
+#: includes/admin-bar-link/admin-bar-link.php:40
+#: includes/admin-bar-link/admin-bar-link.php:43
+msgid "Getting Started"
+msgstr ""
+
+#: includes/admin-bar-link/admin-bar-link.php:51
+#: includes/admin-bar-link/admin-bar-link.php:54
+#: includes/getting-started-page/views/admin/getting-started-page.php:26
+#: includes/getting-started-page/views/admin/getting-started-page.php:88
+msgid "View Your Website"
+msgstr ""
+
+#: includes/default-pages/default-pages.php:25
+msgid "Home"
+msgstr ""
+
+#: includes/default-pages/default-pages.php:37
+msgid "Features and Services"
+msgstr ""
+
+#: includes/default-pages/default-pages.php:48
+msgid "About"
+msgstr ""
+
+#: includes/default-pages/default-pages.php:59
+msgid "Blog"
+msgstr ""
+
+#: includes/default-pages/default-pages.php:67
+msgid "Contact"
+msgstr ""
+
+#: includes/default-pages/default-pages.php:79
+#: includes/default-pages/default-pages.php:94
+msgid "Main Navigation"
+msgstr ""
+
+#: includes/getting-started-page/init-getting-started-page.php:44
+msgid "Getting started with your eCommerce Store"
+msgstr ""
+
+#: includes/getting-started-page/init-getting-started-page.php:45
+#: includes/getting-started-page/views/admin/getting-started-page.php:79
+msgid "Website Help"
+msgstr ""
+
+#: includes/getting-started-page/views/admin/getting-started-page.php:24
+msgid "Getting started with your website"
+msgstr ""
+
+#: includes/getting-started-page/views/admin/getting-started-page.php:32
+msgid "Your website is almost ready!"
+msgstr ""
+
+#: includes/getting-started-page/views/admin/getting-started-page.php:36
+msgid "Your site demo content is being added."
+msgstr ""
+
+#: includes/getting-started-page/views/admin/getting-started-page.php:39
+msgid "Your site demo content was successfully added."
+msgstr ""
+
+#: includes/getting-started-page/views/admin/getting-started-page.php:69
+msgid "Regenerate Demo Content"
+msgstr ""
+
+#: includes/getting-started-page/views/admin/getting-started-page.php:74
+msgid ""
+"You’re well on your way to getting your website up and running on WP "
+"Engine. Your site is already set up with a performant and versatile theme "
+"that has some placeholder content in there to give you a good starting "
+"point. Your site also includes Genesis Blocks, a powerful block library "
+"with professionally designed, full-page layouts for you to use."
+msgstr ""
+
+#: includes/getting-started-page/views/admin/getting-started-page.php:75
+msgid ""
+"Now there’s just a few things you need to do to get your site live. The "
+"steps on the right will walk you through your next steps around customizing "
+"the site to look perfect, adding plugins, and finishing up the final "
+"touches to launch your site. If you want a little more help check out the "
+"links below."
+msgstr ""
+
+#: includes/getting-started-page/views/admin/getting-started-page.php:83
+#. translators: %1$s eCommerce help admin bar location.
+msgid ""
+"This page will always be here to help you complete your site setup. Click "
+"the %1$s link in the admin bar at the top of the screen to return at any "
+"time."
+msgstr ""
+
+#: includes/getting-started-page/views/admin/getting-started-page.php:86
+msgid "For additional help with your website, please see the resources below."
+msgstr ""
+
+#: includes/getting-started-page/views/admin/getting-started-page.php:93
+msgid "5 Steps To Get Your Website Live"
+msgstr ""
+
+#: includes/getting-started-page/views/admin/getting-started-page.php:97
+msgid "Update Page Content"
+msgstr ""
+
+#: includes/getting-started-page/views/admin/getting-started-page.php:100
+msgid "Customize Site Branding"
+msgstr ""
+
+#: includes/getting-started-page/views/admin/getting-started-page.php:103
+msgid "Review the Go Live Checklist"
+msgstr ""
+
+#: includes/getting-started-page/views/admin/getting-started-page.php:103
+msgid "Not available for staging or development sites."
+msgstr ""
+
+#: includes/getting-started-page/views/admin/getting-started-page.php:113
+msgid "Genesis Blocks"
+msgstr ""
+
+#: includes/getting-started-page/views/admin/getting-started-page.php:114
+msgid ""
+"Genesis Blocks is a collection of page building blocks for the WordPress "
+"block editor. Building pages with Genesis Blocks gives you more control to "
+"quickly create and launch any kind of website."
+msgstr ""
+
+#: includes/getting-started-page/views/admin/getting-started-page.php:115
+#: includes/getting-started-page/views/admin/getting-started-page.php:121
+msgid "Visit Docs"
+msgstr ""
+
+#: includes/getting-started-page/views/admin/getting-started-page.php:119
+msgid "Design Collection"
+msgstr ""
+
+#: includes/getting-started-page/views/admin/getting-started-page.php:120
+msgid ""
+"Genesis Pro provides you with a complete collection of page-building "
+"section and layout designs. Mix and match pre-designed sections to create "
+"full pages or get a huge head start with full-page layouts."
+msgstr ""
+
+#: includes/getting-started-page/views/admin/getting-started-page.php:125
+msgid "Go Live Checklist"
+msgstr ""
+
+#: includes/getting-started-page/views/admin/getting-started-page.php:126
+msgid ""
+"When you’re ready to show your website to the world, visit the Go Live "
+"checklist in your WP Engine User Portal. This checklist will walk you "
+"through the final steps of publishing your site. "
+msgstr ""
+
+#: includes/getting-started-page/views/admin/getting-started-page.php:127
+msgid "Visit Go Live Checklist"
+msgstr ""
+
+#: includes/updates/updates.php:219
+msgid ""
+"The product you requested information for is unknown. Please contact "
+"support."
+msgstr ""
+
+#: includes/updates/updates.php:223
+#. translators: %1$s: Link to account portal. %2$s: The text that is linked.
+msgid ""
+"There was an unknown error connecting to the update service. Please ensure "
+"the key you have saved in the Genesis Pro settings page matches the key in "
+"your <a href=\"%1$s\" target=\"_blank\" rel=\"noreferrer "
+"noopener\">%2$s</a>. This issue could be temporary. Please contact support "
+"if this error persists."
+msgstr ""
+
+#: includes/updates/updates.php:223
+msgid "WP Engine Account Portal"
+msgstr ""
+
+#: vendor/lucatume/wp-browser/src/data/plugins/internationalized-plugin.php:11
+msgid "This is a dummy plugin"
+msgstr ""
+
+#: vendor/lucatume/wp-browser/src/data/plugins/wordpress-importer/parsers.php:42
+#: vendor/lucatume/wp-browser/src/data/plugins/wordpress-importer/parsers.php:72
+#: vendor/lucatume/wp-browser/src/data/plugins/wordpress-importer/parsers.php:80
+msgid "There was an error when reading this WXR file"
+msgstr ""
+
+#: vendor/lucatume/wp-browser/src/data/plugins/wordpress-importer/parsers.php:43
+msgid ""
+"Details are shown above. The importer will now try again with a different "
+"parser..."
+msgstr ""
+
+#: vendor/lucatume/wp-browser/src/data/plugins/wordpress-importer/parsers.php:84
+#: vendor/lucatume/wp-browser/src/data/plugins/wordpress-importer/parsers.php:89
+#: vendor/lucatume/wp-browser/src/data/plugins/wordpress-importer/parsers.php:306
+#: vendor/lucatume/wp-browser/src/data/plugins/wordpress-importer/parsers.php:495
+msgid "This does not appear to be a WXR file, missing/invalid WXR version number"
+msgstr ""
+
+#: vendor/lucatume/wp-browser/src/data/plugins/wordpress-importer/wordpress-importer.php:132
+#: vendor/lucatume/wp-browser/src/data/plugins/wordpress-importer/wordpress-importer.php:141
+#: vendor/lucatume/wp-browser/src/data/plugins/wordpress-importer/wordpress-importer.php:192
+#: vendor/lucatume/wp-browser/src/data/plugins/wordpress-importer/wordpress-importer.php:196
+#: vendor/lucatume/wp-browser/src/data/plugins/wordpress-importer/wordpress-importer.php:205
+msgid "Sorry, there has been an error."
+msgstr ""
+
+#: vendor/lucatume/wp-browser/src/data/plugins/wordpress-importer/wordpress-importer.php:133
+msgid "The file does not exist, please try again."
+msgstr ""
+
+#: vendor/lucatume/wp-browser/src/data/plugins/wordpress-importer/wordpress-importer.php:176
+msgid "All done."
+msgstr ""
+
+#: vendor/lucatume/wp-browser/src/data/plugins/wordpress-importer/wordpress-importer.php:176
+msgid "Have fun!"
+msgstr ""
+
+#: vendor/lucatume/wp-browser/src/data/plugins/wordpress-importer/wordpress-importer.php:177
+msgid "Remember to update the passwords and roles of imported users."
+msgstr ""
+
+#: vendor/lucatume/wp-browser/src/data/plugins/wordpress-importer/wordpress-importer.php:197
+msgid ""
+"The export file could not be found at <code>%s</code>. It is likely that "
+"this was caused by a permissions problem."
+msgstr ""
+
+#: vendor/lucatume/wp-browser/src/data/plugins/wordpress-importer/wordpress-importer.php:213
+msgid ""
+"This WXR file (version %s) may not be supported by this version of the "
+"importer. Please consider updating."
+msgstr ""
+
+#: vendor/lucatume/wp-browser/src/data/plugins/wordpress-importer/wordpress-importer.php:238
+msgid ""
+"Failed to import author %s. Their posts will be attributed to the current "
+"user."
+msgstr ""
+
+#: vendor/lucatume/wp-browser/src/data/plugins/wordpress-importer/wordpress-importer.php:264
+msgid "Assign Authors"
+msgstr ""
+
+#: vendor/lucatume/wp-browser/src/data/plugins/wordpress-importer/wordpress-importer.php:265
+msgid ""
+"To make it easier for you to edit and save the imported content, you may "
+"want to reassign the author of the imported item to an existing user of "
+"this site. For example, you may want to import all the entries as "
+"<code>admin</code>s entries."
+msgstr ""
+
+#: vendor/lucatume/wp-browser/src/data/plugins/wordpress-importer/wordpress-importer.php:267
+msgid ""
+"If a new user is created by WordPress, a new password will be randomly "
+"generated and the new user&#8217;s role will be set as %s. Manually "
+"changing the new user&#8217;s details will be necessary."
+msgstr ""
+
+#: vendor/lucatume/wp-browser/src/data/plugins/wordpress-importer/wordpress-importer.php:277
+msgid "Import Attachments"
+msgstr ""
+
+#: vendor/lucatume/wp-browser/src/data/plugins/wordpress-importer/wordpress-importer.php:280
+msgid "Download and import file attachments"
+msgstr ""
+
+#: vendor/lucatume/wp-browser/src/data/plugins/wordpress-importer/wordpress-importer.php:284
+msgid "Submit"
+msgstr ""
+
+#: vendor/lucatume/wp-browser/src/data/plugins/wordpress-importer/wordpress-importer.php:297
+msgid "Import author:"
+msgstr ""
+
+#: vendor/lucatume/wp-browser/src/data/plugins/wordpress-importer/wordpress-importer.php:308
+msgid "or create new user with login name:"
+msgstr ""
+
+#: vendor/lucatume/wp-browser/src/data/plugins/wordpress-importer/wordpress-importer.php:311
+msgid "as a new user:"
+msgstr ""
+
+#: vendor/lucatume/wp-browser/src/data/plugins/wordpress-importer/wordpress-importer.php:319
+msgid "assign posts to an existing user:"
+msgstr ""
+
+#: vendor/lucatume/wp-browser/src/data/plugins/wordpress-importer/wordpress-importer.php:321
+msgid "or assign posts to an existing user:"
+msgstr ""
+
+#: vendor/lucatume/wp-browser/src/data/plugins/wordpress-importer/wordpress-importer.php:322
+msgid "- Select -"
+msgstr ""
+
+#: vendor/lucatume/wp-browser/src/data/plugins/wordpress-importer/wordpress-importer.php:372
+msgid ""
+"Failed to create new user for %s. Their posts will be attributed to the "
+"current user."
+msgstr ""
+
+#: vendor/lucatume/wp-browser/src/data/plugins/wordpress-importer/wordpress-importer.php:424
+msgid "Failed to import category %s"
+msgstr ""
+
+#: vendor/lucatume/wp-browser/src/data/plugins/wordpress-importer/wordpress-importer.php:467
+msgid "Failed to import post tag %s"
+msgstr ""
+
+#: vendor/lucatume/wp-browser/src/data/plugins/wordpress-importer/wordpress-importer.php:516
+#: vendor/lucatume/wp-browser/src/data/plugins/wordpress-importer/wordpress-importer.php:738
+msgid "Failed to import %s %s"
+msgstr ""
+
+#: vendor/lucatume/wp-browser/src/data/plugins/wordpress-importer/wordpress-importer.php:605
+msgid "Failed to import &#8220;%s&#8221;: Invalid post type %s"
+msgstr ""
+
+#: vendor/lucatume/wp-browser/src/data/plugins/wordpress-importer/wordpress-importer.php:642
+msgid "%s &#8220;%s&#8221; already exists."
+msgstr ""
+
+#: vendor/lucatume/wp-browser/src/data/plugins/wordpress-importer/wordpress-importer.php:704
+msgid "Failed to import %s &#8220;%s&#8221;"
+msgstr ""
+
+#: vendor/lucatume/wp-browser/src/data/plugins/wordpress-importer/wordpress-importer.php:869
+msgid "Menu item skipped due to missing menu slug"
+msgstr ""
+
+#: vendor/lucatume/wp-browser/src/data/plugins/wordpress-importer/wordpress-importer.php:876
+msgid "Menu item skipped due to invalid menu slug: %s"
+msgstr ""
+
+#: vendor/lucatume/wp-browser/src/data/plugins/wordpress-importer/wordpress-importer.php:939
+msgid "Fetching attachments is not enabled"
+msgstr ""
+
+#: vendor/lucatume/wp-browser/src/data/plugins/wordpress-importer/wordpress-importer.php:952
+msgid "Invalid file type"
+msgstr ""
+
+#: vendor/lucatume/wp-browser/src/data/plugins/wordpress-importer/wordpress-importer.php:996
+msgid "Remote server did not respond"
+msgstr ""
+
+#: vendor/lucatume/wp-browser/src/data/plugins/wordpress-importer/wordpress-importer.php:1002
+msgid "Remote server returned error response %1$d %2$s"
+msgstr ""
+
+#: vendor/lucatume/wp-browser/src/data/plugins/wordpress-importer/wordpress-importer.php:1009
+msgid "Remote file is incorrect size"
+msgstr ""
+
+#: vendor/lucatume/wp-browser/src/data/plugins/wordpress-importer/wordpress-importer.php:1014
+msgid "Zero size file downloaded"
+msgstr ""
+
+#: vendor/lucatume/wp-browser/src/data/plugins/wordpress-importer/wordpress-importer.php:1020
+msgid "Remote file is too large, limit is %s"
+msgstr ""
+
+#: vendor/lucatume/wp-browser/src/data/plugins/wordpress-importer/wordpress-importer.php:1119
+msgid "Import WordPress"
+msgstr ""
+
+#: vendor/lucatume/wp-browser/src/data/plugins/wordpress-importer/wordpress-importer.php:1126
+msgid ""
+"A new version of this importer is available. Please update to version %s to "
+"ensure compatibility with newer export files."
+msgstr ""
+
+#: vendor/lucatume/wp-browser/src/data/plugins/wordpress-importer/wordpress-importer.php:1141
+msgid ""
+"Howdy! Upload your WordPress eXtended RSS (WXR) file and we&#8217;ll import "
+"the posts, pages, comments, custom fields, categories, and tags into this "
+"site."
+msgstr ""
+
+#: vendor/lucatume/wp-browser/src/data/plugins/wordpress-importer/wordpress-importer.php:1142
+msgid "Choose a WXR (.xml) file to upload, then click Upload file and import."
+msgstr ""
+
+#: vendor/lucatume/wp-browser/src/data/plugins/wordpress-importer/wordpress-importer.php:1216
+msgid ""
+"Import <strong>posts, pages, comments, custom fields, categories, and "
+"tags</strong> from a WordPress export file."
+msgstr ""
+
+#: vendor/lucatume/wp-browser/src/data/themedir1/internationalized-theme/functions.php:7
+msgid "This is a dummy theme"
+msgstr ""
+
+#: vendor/wp-cli/wp-cli/php/utils-wp.php:196
+msgid "Inactive Widgets"
+msgstr ""
+
+#: vendor/wp-cli/wp-cli/php/utils-wp.php:199
+msgid "Drag widgets here to remove them from the sidebar but keep their settings."
+msgstr ""
+
+#. Plugin Name of the plugin/theme
+msgid "Genesis Site Starter"
+msgstr ""
+
+#. Author URI of the plugin/theme
+msgid "https://wpengine.com/"
+msgstr ""
+
+#. Description of the plugin/theme
+msgid "Genesis Site Starter plugin on WP Engine."
+msgstr ""
+
+#. Author of the plugin/theme
+msgid "WPEngine"
+msgstr ""
